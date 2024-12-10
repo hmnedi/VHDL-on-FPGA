@@ -1,0 +1,13 @@
+NET "seven_sag[0]" LOC = P47;
+NET "seven_sag[1]" LOC = P43;
+NET "seven_sag[2]" LOC = P34;
+NET "seven_sag[3]" LOC = P40;
+NET "seven_sag[4]" LOC = P35;
+NET "seven_sag[5]" LOC = P44;
+NET "seven_sag[6]" LOC = P30;
+
+
+NET "BCDin[0]" LOC = P48;
+NET "BCDin[1]" LOC = P55;
+NET "BCDin[2]" LOC = P56;
+NET "BCDin[3]" LOC = P57;

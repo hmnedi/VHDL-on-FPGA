@@ -1,0 +1,4 @@
+NET "sw1" LOC = P55;
+NET "sw2" LOC = P56;
+NET "led1" LOC = P127;
+NET "led2" LOC = P123;

@@ -1,0 +1,13 @@
+NET "clk" LOC = P50;
+NET "section[0]" LOC = P46;
+NET "section[1]" LOC = P45;
+NET "section[2]" LOC = P41;
+NET "section[3]" LOC = P32;
+NET "sevenseg[0]" LOC = P47;
+NET "sevenseg[1]" LOC = P43;
+NET "sevenseg[2]" LOC = P34;
+NET "sevenseg[3]" LOC = P40;
+NET "sevenseg[4]" LOC = P35;
+NET "sevenseg[5]" LOC = P44;
+NET "sevenseg[6]" LOC = P30;
+NET "upcounter" LOC = P48;
