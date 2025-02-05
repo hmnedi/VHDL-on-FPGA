@@ -1,0 +1,15 @@
+NET "clk" LOC = P50;
+NET "sw" LOC = P51;
+NET "sw_reverse" LOC = P48;
+NET "button" LOC = P78;
+NET "anode[0]" LOC = P46;
+NET "anode[1]" LOC = P45;
+NET "anode[2]" LOC = P41;
+NET "anode[3]" LOC = P32;
+NET "segments[0]" LOC = P47;
+NET "segments[1]" LOC = P43;
+NET "segments[2]" LOC = P34;
+NET "segments[3]" LOC = P40;
+NET "segments[4]" LOC = P35;
+NET "segments[5]" LOC = P44;
+NET "segments[6]" LOC = P30;
